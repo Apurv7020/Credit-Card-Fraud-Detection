@@ -1,4 +1,4 @@
-For Dataset refer below link:
+For Dataset refer link:
 https://www.kaggle.com/code/rakibhossainsajib/credit-card-fraud-detection-on-imbalanced-data/input
 
 Conclusion
